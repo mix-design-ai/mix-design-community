@@ -1,5 +1,10 @@
 # Mix-Design AI Community
 
+**Get started:** Visit [mix-design-ai.com](https://mix-design-ai.com) and sign up with your email address.
+
+You can also join this community to ask questions, share examples and suggest improvements. No coding experience is needed, and you can participate in English or Spanish.
+
+
 <img width="1919" height="957" alt="Imagen de ChatGPT 28 sept 2026, 15_30_15" src="https://github.com/user-attachments/assets/4d1704db-e663-4c77-8dd6-1a1e48702348" />
 
 
