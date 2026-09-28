@@ -19,6 +19,7 @@ You can also join this community to ask questions, share examples and suggest im
 ### Virtual Staging + 360° Visualization
 
 Generate multiple furnishing proposals from an empty space, choose the preferred result and continue the workflow into 360° visualization.
+[Explore the saved Virtual Staging + 360° example](https://github.com/mix-design-ai/mix-design-community/discussions/5)
 
 <img width="1033" height="887" alt="Virtual Staging furnishing proposals and 360° generation controls" src="https://github.com/user-attachments/assets/d51e4ad4-c5af-4273-b257-c968b2a63e26" />
 
