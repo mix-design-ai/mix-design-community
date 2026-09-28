@@ -4,6 +4,10 @@
 
 You can also join this community to ask questions, share examples and suggest improvements. No coding experience is needed, and you can participate in English or Spanish.
 
+**What would you improve first in your workflow?** Tell us what you are trying to achieve and what gets in your way. A short example is enough.
+
+👉 [Share your priority with the community](https://github.com/mix-design-ai/mix-design-community/discussions/3)
+
 
 <img width="1919" height="957" alt="Imagen de ChatGPT 28 sept 2026, 15_30_15" src="https://github.com/user-attachments/assets/4d1704db-e663-4c77-8dd6-1a1e48702348" />
 
