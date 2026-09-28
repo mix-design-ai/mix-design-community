@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Bug report
-about: Report a problem or unexpected behavior in Mix-Design AI
-title: "[Bug] "
-labels: bug
-assignees: ''
----
-
 ## What happened?
 
 Describe the problem clearly and briefly.
