@@ -16,6 +16,16 @@ Generate multiple furnishing proposals from an empty space and continue the sele
 
 ---
 
+## Floor Plan to 3D
+
+Convert a 2D architectural floor plan into a furnished 3D isometric visualization.
+
+[View Floor Plan to 3D examples](images/screenshots/floor-plan-to-3d/)
+
+![Floor Plan to 3D](images/screenshots/floor-plan-to-3d/floor-plan-to-3d-isometric.webp)
+
+---
+
 ## Copy Style From Image
 
 Transfer colours, materials and atmosphere from a reference image while keeping the original room layout and key architectural elements.
