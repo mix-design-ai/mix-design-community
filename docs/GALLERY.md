@@ -16,6 +16,17 @@ Generate multiple furnishing proposals from an empty space and continue the sele
 
 ---
 
+## Live Presentation
+
+Turn visual projects into interactive presentations that clients can explore, compare and review directly in their browser.
+
+[View Live Presentation examples](images/screenshots/live-presentation/)
+
+👉 [Open a real interactive Live Presentation](https://mix-design-ai.com/s/F3OfvAtYg7HlzK4WXMAXPkmC)
+
+![Live Presentation](images/screenshots/live-presentation/live-presentation-interactive.webp)
+
+
 ## Floor Plan to 3D
 
 Convert a 2D architectural floor plan into a furnished 3D isometric visualization.
